@@ -13,3 +13,12 @@ I'm not sure we can solve it without [a regular expression](https://docs.python.
 
 ## Day 2
 Ruby's [Enumerable](https://ruby-doc.org/3.2.2/Enumerable.html) is my favorite object ever !
+
+## Day 3
+Epic fail ! The sample dataset works but not the big file ; can't find why :-(
+Update : I probably have an error where I get the index of the scanned number in case there are two instances of the same number on the same line
+
+## Day 4
+1st puzzle super easy thanks to the [intersection operator](https://ruby-doc.org/3.2.2/Array.html#method-i-26) on the array.
+
+2nd puzzle has two implementations, a litteral one that is way to slow or math one.
