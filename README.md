@@ -22,3 +22,15 @@ Update : I probably have an error where I get the index of the scanned number in
 1st puzzle super easy thanks to the [intersection operator](https://ruby-doc.org/3.2.2/Array.html#method-i-26) on the array.
 
 2nd puzzle has two implementations, a litteral one that is way to slow or math one.
+
+## Day 5
+WIP
+
+## Day 6
+The brute force calculation is easy to find the winning race.
+
+If we were to calculate the optimum without computing all values, a quadratic equation would be the best.
+
+
+## Day 7
+Quick and dirty, puzzle 1 only
